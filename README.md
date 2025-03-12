@@ -1,7 +1,3 @@
-an *AI-driven freelancer marketplace* designed to streamline the hiring process for employers and enhance job opportunities for freelancers. Unlike traditional platforms, BharatWorks integrates *AI-powered job matching, regional job filtering, secure escrow payments, and AI-driven upskilling* to create a smarter and safer freelancing ecosystem.
-
----
-
 ## 🔥 Key Features
 
 ### ✅ AI-Powered Freelancer Matching
