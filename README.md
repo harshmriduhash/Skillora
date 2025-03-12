@@ -70,7 +70,3 @@ Create a .env file in the root directory and add the following:
 MONGO_URI=your_mongodb_connection
 JWT_SECRET=your_secret_key
 PAYMENT_GATEWAY_KEY=your_payment_key
-
-
-
-### 🔥 BharatWorks - Smarter, Safer, & More Profitable Freelancing! 🚀
