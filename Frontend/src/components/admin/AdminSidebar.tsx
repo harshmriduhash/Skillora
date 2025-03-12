@@ -37,7 +37,7 @@ const AdminSidebar: React.FC<AdminSidebarProps> = ({
                     </div>
                     {!isCollapsed && (
                         <span className="font-bold text-[#111111] dark:bg-gradient-to-r dark:from-emerald-400 dark:to-cyan-400 dark:bg-clip-text dark:text-transparent">
-                            SKILLORA
+                            SKILLORA.AI
                         </span>
                     
                     )}
