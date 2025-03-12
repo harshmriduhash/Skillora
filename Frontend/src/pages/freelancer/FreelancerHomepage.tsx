@@ -120,9 +120,9 @@ const FreelancerHomepage = () => {
                         </AccordionItem>
 
                         <AccordionItem value="item-3">
-                            <AccordionTrigger>What support does Skillora provide for freelancers?</AccordionTrigger>
+                            <AccordionTrigger>What support does Skillora.ai provide for freelancers?</AccordionTrigger>
                             <AccordionContent>
-                                Skillora offers dispute resolution, project management tools, and community support to help freelancers grow their careers.
+                                Skillora.ai offers dispute resolution, project management tools, and community support to help freelancers grow their careers.
                             </AccordionContent>
                         </AccordionItem>
                     </Accordion>
