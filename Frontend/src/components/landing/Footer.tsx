@@ -35,7 +35,7 @@ const Footer = () => {
                 <div className="text-center md:text-right">
                     <h3 className="text-md font-semibold">Contact us</h3>
                     <p className="text-sm text-gray-600 dark:text-gray-300">skillora@company.com</p>
-                    <p className="text-sm text-gray-600 dark:text-gray-300">+91 8853337201</p>
+                    <p className="text-sm text-gray-600 dark:text-gray-300">+91987654321</p>
                 </div>
             </div>
 
